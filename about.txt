@@ -1,0 +1,2 @@
+
+Developed a visually appealing Power BI dashboard showcasing comprehensive information on 2022-2023 cars, including engine type, cylinders, mileage, price, number of doors, and seating capacity. Utilized engaging visualizations to present data effectively, with each car image prominently displayed at the center of the dashboard. The dashboard provides users with an intuitive interface to explore and compare different car models based on their preferences and requirements.
